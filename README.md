@@ -1,4 +1,4 @@
-# Metro Passenger Data Analysis and Prediction
+# Istanbul Metro Passenger Data Analysis and Prediction
 
 This project analyzes metro passenger data obtained from the **IBB Open Data Portal** (Istanbul Metropolitan Municipality). The project includes cleaning and processing the dataset, exploratory data analysis, visualization of trends, and applying a prediction model to forecast passenger counts.
 
